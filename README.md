@@ -1,3 +1,4 @@
+https://github.com/user-attachments/assets/941b5df1-3a0d-4b4e-b957-85793281eb3f
 - 👋 Hi, I’m Jonathan Sosa
 - 👀 I’m interested in: Programming, Computers, Music, and Video Games
 - 🌱 I’m currently learning: .java
