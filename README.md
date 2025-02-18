@@ -10,6 +10,7 @@
 - I am a Computer Science Major
 - I am apart of the esports team
 - I love to learn more about coding
+- I am currently enrolled at Wayne State College
 
 ### Education 📖
 
