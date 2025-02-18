@@ -1,3 +1,4 @@
+### Hello 😊
 ![9kkjyd](https://github.com/user-attachments/assets/0c3d50a3-1f57-4f56-b33e-66827c43b2e5)
 - 👋 Hi, I’m Jonathan Sosa
 - 👀 I’m interested in: Programming, Computers, Music, and Video Games
@@ -10,7 +11,7 @@
 - I am apart of the esports team
 - I love to learn more about coding
 
-### Education
+### Education 📖
 
 - Graduated David City High School
 
