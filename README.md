@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning: .java
 - 📫 How to reach me: **jososa02@wsc.edu** or **jonathansosa7897@gmail.com**
 - ⚡ Fun fact: I like to play guitar and trombone
-###About Me 🎈
+
+### About Me 🎈
 - I am a Computer Science Major
 - I am apart of the esports team
 - I love to learn more about coding
